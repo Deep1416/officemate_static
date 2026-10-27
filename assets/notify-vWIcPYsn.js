@@ -1,0 +1,1 @@
+import{n as e}from"./config-jXFkMdQB.js";async function t(t,n){try{await fetch(e,{method:`POST`,mode:`no-cors`,keepalive:!0,headers:{"Content-Type":`text/plain;charset=utf-8`},body:JSON.stringify({kind:t,...n,createdAt:new Date().toISOString()})})}catch(e){console.error(`Failed to email enquiry`,e)}}export{t};
