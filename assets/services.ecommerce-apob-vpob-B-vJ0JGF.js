@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Dk72oS4N.js";import{t}from"./ServicePage-CFCU7L9Y.js";import{_ as n}from"./index-DDgQoEf9.js";var r=e(),i=()=>(0,r.jsx)(t,{slug:`ecommerce-apob-vpob`,...n[`ecommerce-apob-vpob`]});export{i as component};
