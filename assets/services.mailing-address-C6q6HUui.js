@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Dk72oS4N.js";import{t}from"./ServicePage-Bbm62MhU.js";import{D as n}from"./index-BElfQDTZ.js";var r=e(),i=()=>(0,r.jsx)(t,{slug:`mailing-address`,...n[`mailing-address`]});export{i as component};
