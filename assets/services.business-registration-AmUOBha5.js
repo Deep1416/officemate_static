@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Dk72oS4N.js";import{t}from"./ServicePage-Cs_yItDi.js";import{D as n}from"./index-CJEb65FC.js";var r=e(),i=()=>(0,r.jsx)(t,{slug:`business-registration`,...n[`business-registration`]});export{i as component};
