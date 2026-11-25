@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Dk72oS4N.js";import{t}from"./ServicePage-3eb-LPg4.js";import{O as n}from"./index-DIjg_jpB.js";var r=e(),i=()=>(0,r.jsx)(t,{slug:`mailing-address`,...n[`mailing-address`]});export{i as component};
